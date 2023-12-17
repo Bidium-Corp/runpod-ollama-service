@@ -1,0 +1,10 @@
+{
+  "input": {
+    "method_name": "generate",
+    "parameters": {
+      "prompt": "Hey brother how are you?",
+      "model" : "mistral",
+      "stream": true
+    }
+  }
+}
